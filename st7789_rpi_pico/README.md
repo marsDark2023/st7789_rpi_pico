@@ -1,4 +1,4 @@
-#ST779_RPI_PICO 
+# ST779_RPI_PICO 
 
 pico -> soft_spi -> st7789
 
