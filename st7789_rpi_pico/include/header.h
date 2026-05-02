@@ -1,0 +1,1 @@
+#define __keep __attribute__(( noinline, keep, used))
